@@ -1,0 +1,25 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+header{
+  background: url(https://images6.alphacoders.com/339/339811.jpg);
+  background-size: cover;
+  height: 100vh;
+}
+
+.title{
+  position: absolute;
+  top: 20%;
+  left:50%;
+  transform: translate(-50%, -50%);
+  color: orange;
+  text-align: center;
+  font-size: 3em;
+}
+
+#main{
+  width: 80%;
+  margin: 20px auto;
+}
